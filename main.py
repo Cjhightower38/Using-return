@@ -1,4 +1,4 @@
-# Defining a fuction using mutiple return statements and the title function.
+# Defining a fuction using mutiple return statements and the title functio
 def format_name():
 
   f_name=input('What is your first name?\n')
